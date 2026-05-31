@@ -6,5 +6,6 @@ while True:
     if numero == 999:
         break
     soma += numero
+    cont += 1
     
 print(f'a soma dos {cont} valores e {soma}')
